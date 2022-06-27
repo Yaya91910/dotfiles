@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yassin.fekih@free.fr
+	name = Yassin Fekih
